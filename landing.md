@@ -7,25 +7,25 @@
 
 1、首先我们把鼠标点击进入“中间的仪表”中，鼠标向上垂直移动让中间的数值为负数，也就是向下飞行。
 
-![保持平衡](/imgs/landing02.jpg)
+![向下飞行](/imgs/landing02.jpg)
 
 2、接着就是降落期间保持按住“pg dn”键降低速度，具体速度可以查看左边的仪表。
 
-![保持平衡](/imgs/landing03.jpg)
+![减速](/imgs/landing03.jpg)
 
 3、然后就是多次按“F”键打开襟翼，慢慢打开直到100%。
 
-![保持平衡](/imgs/landing04.jpg)
+![打开襟翼](/imgs/landing04.jpg)
 
 4、接着按“G”键打开飞机的轮子。
 
-![保持平衡](/imgs/landing05.jpg)
+![放起落架](/imgs/landing05.jpg)
 
 5、接近地面要保持平衡，中间的仪表要在“0”左右，让飞行器速度在“200”以下或者左右。
 
-![保持平衡](/imgs/landing06.jpg)
+![水平](/imgs/landing06.jpg)
 
 6、最后我们就可以平稳的降落到地面，这时候我们还是一直按住“pg dn”键降速，直到速度为“0”降落完成。
 
-![保持平衡](/imgs/landing07.jpg)
+![减速](/imgs/landing07.jpg)
 
