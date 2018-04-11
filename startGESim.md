@@ -1,4 +1,4 @@
-  [首页](README.md)
+  [返回首页](README.md)
 
 1、启动GoogleEarth
 
@@ -15,3 +15,5 @@
 4、选择飞机。
 
 ![configSim](/imgs/cfgsim.jpg)
+
+  [返回首页](README.md)
