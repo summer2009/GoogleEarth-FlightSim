@@ -1,5 +1,5 @@
 
-   ![hud](hud.jpg)
+   ![hud](/imgs/hud.jpg)
 
     1、速度(节)
     2、朝向
