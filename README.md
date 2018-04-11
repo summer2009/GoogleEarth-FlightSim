@@ -12,3 +12,5 @@
 ## [使用操纵杆](joystickSpecify.md)
 ## [起飞](takeoff.md)
 ## [降落](landing.md)
+## [机场文件](airports.md)
+## [飞行日志](logsofflights.md)
