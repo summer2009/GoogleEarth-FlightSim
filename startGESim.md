@@ -1,3 +1,5 @@
+  [首页](README.md)
+
 1、启动GoogleEarth
 
 ![startSim](/imgs/gestart.jpg)
