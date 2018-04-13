@@ -2,6 +2,8 @@
 
 #### joystick
 
+![操纵杆](/imgs/EX3ProJoyStick.png)
+
 #### push (down)
 
 #### pull (up)
