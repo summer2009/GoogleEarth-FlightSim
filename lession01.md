@@ -6,7 +6,7 @@
 ![earth](/imgs/earth.jpg)
 
 ### sky
-
+![sky](/imgs/sky.jpg)
 ### fly
 
 ### I can fly!
