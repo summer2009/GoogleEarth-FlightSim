@@ -3,6 +3,7 @@
 ----
 
 ### earth
+![earth](/imgs/earth.jpg)
 
 ### sky
 
