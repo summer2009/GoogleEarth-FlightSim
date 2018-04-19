@@ -3,8 +3,11 @@
 下面的是一些具体的名词：背下来就可以了
 1. 时间类
 
-time 时间         morning 早晨      afternoon 下午
-noon 中午         evening 晚上      night 夜晚，晚上
++ time 时间
++ morning 早晨      
++ afternoon 下午
++ noon 中午         
++ evening 晚上      night 夜晚，晚上
 tonight 今晚      today 今天        tomorrow 明天
 yesterday 昨天    weekend 周末      month 月
 year 年          season 时期，季节  spring 春天
