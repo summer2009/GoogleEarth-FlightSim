@@ -7,15 +7,30 @@
 + morning 早晨      
 + afternoon 下午
 + noon 中午         
-+ evening 晚上      night 夜晚，晚上
-tonight 今晚      today 今天        tomorrow 明天
-yesterday 昨天    weekend 周末      month 月
-year 年          season 时期，季节  spring 春天
-autumn 秋天       winter 冬天       day 一天，每天
-date 日期         moment 片刻       period 周期
-history 历史      future 将来       birthday 生日
-holiday 假期      festival 节日     schedule 时间表
-age 年龄
++ evening 晚上      
++ night 夜晚，晚上
++ tonight 今晚      
++ today 今天        
++ tomorrow 明天
++ yesterday 昨天    
++ weekend 周末      
++ month 月
++ year 年          
++ season 时期，季节  
++ spring 春天
++ autumn 秋天       
++ winter 冬天       
++ day 一天，每天
++ date 日期         
++ moment 片刻       
++ period 周期
++ history 历史      
++ future 将来       
++ birthday 生日
++ holiday 假期      
++ festival 节日     
++ schedule 时间表
++ age 年龄
 
 2. 气候类
 
