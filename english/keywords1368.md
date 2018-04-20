@@ -34,8 +34,10 @@
 
 2. 气候类
 
-weather 气候      rain 下雨     snow 雪
-wind 风           cloud 云
++ weather 气候      
++ rain 下雨     
++ snow 雪
++ wind 风           cloud 云
    
 3. 自然类
 
