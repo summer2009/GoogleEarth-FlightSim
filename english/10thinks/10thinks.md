@@ -27,7 +27,7 @@
 
 成长型思维：what am i missing?我会错过什么？
 
-![](01.jpg)
+![](01.jpeg)
 
 02
 
@@ -35,7 +35,7 @@
 
 成长型思维：I’ll use a different strategy.我要用另一种方法试试看。
 
-![](02.jpg)
+![](02.jpeg)
 
 03
 
@@ -43,7 +43,7 @@
 
 成长型思维：Is this my best work?我还能做得更好吗？
 
-![](03.jpg)
+![](03.jpeg)
 
 04
 
@@ -51,7 +51,7 @@
 
 成长型思维：Mistakes help me learn!失误能让我学会更多。
 
-![](04.jpg)
+![](04.jpeg)
 
 05
 
@@ -59,7 +59,7 @@
 
 成长型思维：I can learn from them.我可以在一边旁观学习。
 
-![](05.jpg)
+![](05.jpeg)
 
 06
 
@@ -67,7 +67,7 @@
 
 成长型思维：This may take some time.只需要多花点时间而已。
 
-![](06.jpg)
+![](06.jpeg)
 
 07
 
@@ -75,7 +75,7 @@
 
 成长型思维：I’m going to train my brain.我要发动我的大脑了。
 
-![](07.jpg)
+![](07.jpeg)
 
 08
 
@@ -83,7 +83,7 @@
 
 成长型思维：I can always improve!下一次我能做得更好。
 
-![](08.jpg)
+![](08.jpeg)
 
 09
 
@@ -91,7 +91,7 @@
 
 成长型思维：There’s always Plan B.没关系，我还有Plan B。
 
-![](09.jpg)
+![](09.jpeg)
 
 10
 
@@ -99,7 +99,7 @@
 
 成长型思维：I will learn how to do this!我一定可以学会如何做到这一点。
 
-![](10.jpg)
+![](10.jpeg)
 
 这些海报可不只是装饰，而是被老师用作了教学工具。在美国教室里，老师会借助海报上的内容，跟学生这样聊天：
 
