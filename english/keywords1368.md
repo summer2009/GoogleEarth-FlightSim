@@ -263,143 +263,232 @@
 
 22. 首饰类
 
-jewelry 珠宝      diamond 钻石      ring 戒指
++ jewelry 珠宝      
++ diamond 钻石      
++ ring 戒指
 
  
 23. 化妆品
 
-cosmetics 化妆品       perfume 香水      lipstick 口红
-powder 粉、粉末
++ cosmetics 化妆品       
++ perfume 香水      
++ lipstick 口红
++ powder 粉、粉末
 
  24. 交通类
 
-transport 运输、交通     traffic 运输      bicycle 自行车
-ship 船                boat 小船       plane 飞机
-train 火车
++ transport 运输、交通     
++ traffic 运输      
++ bicycle 自行车
++ ship 船                
++ boat 小船       
++ plane 飞机
++ train 火车
 
  
 25. 车辆类
 
-vehicle 车辆、工具   motorcycle 摩托车、机动车  bus 公共汽车
-car 汽车            truck 卡车                brake 刹车
-engine 引擎         gear 齿轮、装置             tire 轮胎、头饰
-wheel 车轮、方向盘、转动
++ vehicle 车辆、工具   
++ motorcycle 摩托车、机动车  
++ bus 公共汽车
++ car 汽车            
++ truck 卡车                
++ brake 刹车
++ engine 引擎         
++ gear 齿轮、装置             
++ tire 轮胎、头饰
++ wheel 车轮、方向盘、转动
 
    
 
 26. 路桥类
 
-road 公路、马路      street 街道       bridge 桥
-station 车站
++ road 公路、马路      
++ street 街道       
++ bridge 桥
++ station 车站
 
   
 27. 装置类
 
-device 装置、图案、策略 lock 锁、刹车           key 健、关键、钥匙
-bell 钟、铃声         scale 规模、比例、天平    tap 水龙头、轻打
++ device 装置、图案、策略 
++ lock 锁、刹车           
++ key 健、关键、钥匙
++ bell 钟、铃声         
++ scale 规模、比例、天平    
++ tap 水龙头、轻打
 
 28. 设备类
 
-equipment 设备、装备   shower 沐浴       radio 收音机
-telephone 电话        camera 相机       computer 计算机、电脑
-TV 电视               fridge 电冰箱      video 视频、录像、电视
-
- 
++ equipment 设备、装备   
++ shower 沐浴       
++ radio 收音机
++ telephone 电话        
++ camera 相机       
++ computer 计算机、电脑
++ TV 电视               
++ fridge 电冰箱      
++ video 视频、录像、电视
 
 29. 容器类
 
-container 容器、集装箱    box 箱、盒子        cup 杯子
-dish 盘、餐具           plate 碟、金属板     bowl 碗、木球
-basket 篮子、得分        tub 浴盆、桶        sink 水槽、污水坑
-pot 壶、盆、罐           pan 平底锅
-
- 
++ container 容器、集装箱    
++ box 箱、盒子        
++ cup 杯子
++ dish 盘、餐具           
++ plate 碟、金属板     
++ bowl 碗、木球
++ basket 篮子、得分        
++ tub 浴盆、桶        
++ sink 水槽、污水坑
++ pot 壶、盆、罐           
++ pan 平底锅
 
 30. 材料类
 
-material 材料、原料  cloth 布、桌布          paper 纸、论文
-glass 玻璃、镜子     plastic 塑料制品        gold 金、黄金
-paint 油漆、颜料     chemical 化学药品
-
-   
++ material 材料、原料  
++ cloth 布、桌布          
++ paper 纸、论文
++ glass 玻璃、镜子     
++ plastic 塑料制品        
++ gold 金、黄金
++ paint 油漆、颜料     
++ chemical 化学药品
 
 31. 日常用品类
 
-toy 玩具          brush 刷         mirror 镜子
-chain 链         board 板         handle 把手
-cartoon 卡通      bottle 瓶        wood 木
-clock 时钟        knife 刀         pen 笔
-book 书          album 专辑        menu 菜单
-card 卡片         envelope 包络线    ticket 票
-pipe 管          tube 管            wire 线
-belt 带          web 网络            film 薄膜
-screen 屏幕       gift 礼物           channel 通道
-alarm 报警        electrictity 电    towel 毛巾
-carpet 地毯       tool 工具           junk 垃圾
-fortk 叉         spoon 勺子          medicine 医学
-drug 药物         pill 药丸
-
-  
++ toy 玩具          
++ brush 刷         
++ mirror 镜子
++ chain 链         
++ board 板         
++ handle 把手
++ cartoon 卡通      
++ bottle 瓶        
++ wood 木
++ clock 时钟        
++ knife 刀         
++ pen 笔
++ book 书          
++ album 专辑        
++ menu 菜单
++ card 卡片         
++ envelope 包络线    
++ ticket 票
++ pipe 管          
++ tube 管            
++ wire 线
++ belt 带          
++ web 网络            
++ film 薄膜
++ screen 屏幕       
++ gift 礼物           
++ channel 通道
++ alarm 报警        
++ electrictity 电    
++ towel 毛巾
++ carpet 地毯       
++ tool 工具           
++ junk 垃圾
++ fortk 叉         
++ spoon 勺子          
++ medicine 医学
++ drug 药物         
++ pill 药丸
 
 32. 数量
 
-couple 对、夫妻     double 两倍       load 负载、负荷
-pack 包装、一群      lot 许多、份额
-
-  
++ couple 对、夫妻     
++ double 两倍       
++ load 负载、负荷
++ pack 包装、一群      
++ lot 许多、份额
 
 33. 单位
 
-unit 单位         meter 米、仪器      inch 英寸、身高
-pound 英镑        gram 克            piece 块、硬币
-
-  
++ unit 单位         
++ meter 米、仪器      
++ inch 英寸、身高
++ pound 英镑        
++ gram 克            
++ piece 块、硬币
 
 34. 事情
 
-thing 事情        issue 问题        matter 物质、事件
-stuff 东西        object 目标、物体    event 事件、大事
++ thing 事情        
++ issue 问题        
++ matter 物质、事件
++ stuff 东西        
++ object 目标、物体    
++ event 事件、大事
 
-   
-    有关人的名词
+有关人的名词
 
 35、家庭角色类
 
-parent 父母       daughter 女儿     son 儿子
-father 父亲       mother 母亲       brother 兄弟
-sister 姐妹       husband 丈夫      wife 妻子
-uncle 叔叔        aunt 阿姨     grandfather 外公
-grandmother 外婆  role角色
-
++ parent 父母       
++ daughter 女儿     
++ son 儿子
++ father 父亲       
++ mother 母亲       
++ brother 兄弟
++ sister 姐妹       
++ husband 丈夫      
++ wife 妻子
++ uncle 叔叔        
++ aunt 阿姨     
++ grandfather 外公
++ grandmother 外婆  
++ role角色
     
 36、社会角色类
 
-kid 小孩              child 儿童        baby 宝贝
-boy 男孩              girl 女孩         man 男人
-woman 女人            friend 朋友       lady 女士
-gentleman 先生        boss 老板         customer 顾客
-student 学生          neighbor 邻居     person 人、身体
-volunteer 志愿者       fool 傻瓜         sir 先生
-madam 夫人、女士
-
++ kid 小孩              
++ child 儿童        
++ baby 宝贝
++ boy 男孩              
++ girl 女孩         
++ man 男人
++ woman 女人            
++ friend 朋友       
++ lady 女士
++ gentleman 先生        
++ boss 老板         
++ customer 顾客
++ student 学生          
++ neighbor 邻居     
++ person 人、身体
++ volunteer 志愿者       
++ fool 傻瓜         
++ sir 先生
++ madam 夫人、女士
    
 37、职业类
 
-job 工作          doctor 医生       nurse 护士
-professor 教授    lawyer 律师       engineer 工程师
-teacher 教师      coach 教练        guard 守卫
-judge 法官
-
-    
++ job 工作          
++ doctor 医生       
++ nurse 护士
++ professor 教授    
++ lawyer 律师       
++ engineer 工程师
++ teacher 教师      
++ coach 教练        
++ guard 守卫
++ judge 法官
 
 38、群体类
 
-group 组、团队      people 人、人类         class 班级
-team 团队           human 人、人类          staff 职员
-society 社会、社团   generation 一代、产生    army 军队
-government 政府     family 家庭
-
-   
++ group 组、团队      
++ people 人、人类         
++ class 班级
++ team 团队           
++ human 人、人类          
++ staff 职员
++ society 社会、社团   
++ generation 一代、产生    
++ army 军队
++ government 政府     
++ family 家庭
 
 关于具体名词的解读
 总单词量：355个
