@@ -5,235 +5,465 @@
 一、句子(1912)：
 
 1、It's a deal.   一言为定！
+
 2、It's written.   命中注定。《圣经》
+
 3、To be is to do!   活着就是奋斗！
+
 4、Trick or treat!   不给糖就捣蛋！(万圣节风俗)
+
 5、You're the boss.   听你的！《老友记》
+
 6、He's a crackpot.   他真是朵奇葩。
+
 7、I am behind you.   我挺你！
+
 8、She turns me on.   她让我眼前一亮。
+
 9、You are gorgeous!   你真漂亮！
+
 10、Keep a sharp eye.   小心点！《加勒比海盗》
+
 11、Go with the flow.   顺其自然。
+
 12、I'm not indoorsy.   我不是宅男。《生活大爆炸》
+
 13、It's almost here.   它，不日而至！(iPhone5发布会邀请)
+
 14、It's worth a shot.   值得一试。《盗梦空间》
+
 15、It's sink or swim.   成败全靠自己！
+
 16、I want to see john.   我想去厕所。
+
 17、Get out of my face.   离我远点！《气象先生》
+
 18、No cross, no crown.   不经历风雨，怎么见彩虹。
+
 19、Come on, be honest.   拜托，诚实点！
+
 20、Speak of the devil.   说曹操曹操到。
+
 21、You're in the pink!   你的气色真好！
+
 22、Keep your shirt on.   要淡定！(俚语)
+
 23、He has big muscles.   他肌肉很发达。
+
 24、What's the big deal?   多大点事啊？！(老友记)
+
 25、My mouth is watering!   我要流口水了!
+
 26、So what do you think?   元芳，你怎么看？
+
 27、Elders are treasures.   家有一老，如有一宝。
+
 28、Dreams can come true!   梦想是可以成真的!（苏珊大妈）
+
 29、Look before you leap.   三思而后行。(谚语)
+
 30、She is an ace dancer.   她是个王牌舞蹈演员。
+
 31、Inspire a generation.   激励一代人。(2012伦敦奥运会口号)
+
 32、Labor vanquishes all.   劳动征服一切。(维吉尔)
+
 33、I'm a laundry virgin.   我从没洗过衣服。
+
 34、Don't boil the ocean.   不要好高骛远。
+
 35、Destiny takes a hand.   缘分天注定。《西雅图不眠夜》
+
 36、She's pretty stacked.   她的身材婀娜多姿。
+
 37、The weather is rotten.   天气真糟糕。
+
 38、She's a rough diamond.   她是个内秀的人。
+
 39、That's as easy as pie.   这事易如反掌。
+
 40、She's so honey-lipped.   她嘴特别甜。
+
 41、God is shining on you.   你真走运。
+
 42、I have a crush on you.   我对你有一点动心。《吸血鬼日记》
+
 43、My way or the highway.   不听我的就滚蛋！《老友记》
+
 44、Every dog has its day.   每个人都有时来运转的一天。
+
 45、He's a man of his word.   他是个靠谱的人。
+
 46、You are the one for me.   你是我的梦中情人。
+
 47、We have good chemistry.   我们一见如故。
+
 48、Practice makes perfect.   熟能生巧。
+
 49、There are no accidents.   存在即合理。《功夫熊猫》
+
 50、Money will come and go.   钱财乃身外之物。
+
 51、A promise is a promise!   说到就要做到。《阿甘正传》
+
 52、More haste, less speed.   欲速则不达。(谚语)
+
 53、You make your own luck.   命运由你自己把握。《吸血鬼日记》
+
 54、Music is my painkiller.   音乐就是我的止痛药。
+
 55、To make each day count.   要让每一天都有所值。
+
 56、True love conquers all.   真爱无敌！《睡美人》
+
 57、Over-thinking ruins you.   想得太多会毁了你。
+
 58、Why is he tailgating us?   他干嘛一直贴在我们屁股后面？
+
 59、I'm at a loss for words.   我很无语。
+
 60、Tomorrow is another day.   明天又是全新的一天。《乱世佳人》
+
 61、I wasn't born yesterday.   我又不是三岁小孩。
+
 62、Life is full of changes.   生活充满了变数。《老爸老妈的浪漫史》
+
 63、How thick could you get?   你能再“二”一点吗？
+
 64、Great minds think alike.   英雄所见略同。
+
 65、Don't teach fish to swim.   谚语：不要班门弄斧。
+
 66、Curiosity killed the cat.   好奇会惹祸。(俚语)
+
 67、Just have a little faith.   要有点信心！《越狱》
+
 68、Time is racing toward us.   时不我待。《花木兰》
+
 69、She's got a curvy figure.   她身材很正点。
+
 70、It's dogged that does it.   世上无难事，只怕有心人。
+
 71、A lazy youth, a lousy age.   少壮不努力，老大徒伤悲。
+
 72、Nothing stands in my way.   没有什么能够阻挡我！《功夫熊猫2》
+
 73、I am ordinary yet unique.   我很平凡，但我独一无二。
+
 74、You almost pulled it off.   你差点就得手了。《绯闻女孩》
+
 75、She has a lot on the ball.   她是一个能干的人。
+
 76、Penny wise, pound foolish.   贪小便宜吃大亏。
+
 77、Everyday life inspires me.   生活每天都在激励我。（艾薇儿）
+
 78、I've got a job in the bag.   我已经十拿九稳地找到一份工作了。
+
 79、We have nothing in common.   我们没有共同语言。
+
 80、I think it's a fat chance.   我觉得希望渺茫。
+
 81、Can we go thrift shopping?   咱俩去趟二手店呗？
+
 82、Our attitude defines life.   态度决定命运。
+
 83、I'm cheerful and outgoing.   我乐观开朗。
+
 84、You can't change the past.   人无法改变过去。—影片《狮子王》（1994）
+
 85、That's really really nice.   这真真是极好的。(甄嬛体)
+
 86、She's a good-time charlie.   她是个乐天派。
+
 87、potter! What's your hurry?   波特！你急着去干什么？
+
 88、I'm the king of the world!   我是世界之王！
+
 89、She's really a shopaholic.   她真是个购物狂。
+
 90、She has a taste in fashion.   她眼光很独到。
+
 91、Honesty is the best policy.   做人以诚信为本。
+
 92、Can you give me a discount?   能给我打个折吗？
+
 93、Your parents are your gods.   你的父母是你的上帝。—影片《风雨哈佛路》
+
 94、A teacher affects eternity.   老师的影响力是永恒的。
+
 95、There's no place like home.   没有一个地方可以和家相提并论。《绿野仙踪》
+
 96、All life is a game of luck.   生活本来就全靠运气。《泰坦尼克号》
+
 97、Freedom lies in being bold.   自由源于勇敢。—罗伯特·佛洛斯特
+
 98、Can I get a refill, please?   我能续杯吗？
+
 99、I'm not old! Age is nothing!   我不老！年龄不是问题！(李娜)
+
 100、The bag is a cheap knockoff.   这包是个山寨货。
+
 101、So much spice, so much pain.   嘴巴那么毒，内心一定是有很多苦吧！--《破产姐妹》
+
 102、Opportunity knocks but once.   机不可失，时不再来。
+
 103、Have you booked your ticket?   你定上火车票了吗？
+
 104、Losing all hope was freedom.   彻底绝望意味着自由。—影片《搏击俱乐部》
+
 105、Being the third wheel sucks!   当电灯泡神马的最讨厌了！
+
 106、Love is trembling happiness.   爱，是颤抖着的幸福。（纪伯伦）
+
 107、mama, thank you for who I am.   妈妈，谢谢你成就了我。
+
 108、I don't want to overanalyze.   我不愿小题大做。《吸血鬼日记》
+
 109、It's easy once you know how.   一旦你明白，就会很简单。
+
 110、You are the apple of my eye.   你是我的掌上明珠。
+
 111、As you pray, move your feet.   当你祈祷的时候，同时也要采取行动。
+
 112、Done is better than perfect.   比完美更重要的是完成。
+
 113、Rumor stops at indifference.   谣言止于漠不关心者。
+
 114、You'll always have next year.   将来机会多得是。
+
 115、A young idler, an old beggar.   少壮不努力，老大徒伤悲。
+
 116、You're in here because of me.   你在这里，是因为有我。《暮光之城》
+
 117、Wherever I go, there you are.   无论我去哪里，总有你在。
+
 118、Dreams are necessary to life.   梦想是生活的必需品。
+
 119、Good or bad we must all live.   无论生活是悲是喜，我们都须承受。
+
 120、It's hot enough to melt hell!   这天热得足以把地狱熔化！
+
 121、Strike while the iron is hot.   趁热打铁。
+
 122、May treasures fill your home.   财源广进！
+
 123、How can men succumb to force?   男人怎么能屈服于“武力”之下？《海贼王》
+
 124、Let's go on a shopping spree.   我们疯狂购物去吧！
+
 125、I don't want the dead-end job.   我不想做没有前途的工作。
+
 126、The heart wants what it wants.   心之所欲无人能挡。《破产姐妹》
+
 127、Learn real English in context!   遨游真实语境，学习地道英语！
+
 128、What goes around comes around.   出来混迟早要还的。
+
 129、I couldn't get through to you.   我打不通你电话。
+
 130、You've got to learn to let go.   你得学会放手。《地心引力》
+
 131、I wish I knew how to quit you.   我想知道我该如何戒掉你。——《断背山》
+
 132、Sit tight. I'm gonna floor it!   坐好，我要开始飙车了！
+
 133、Be innocent just like a child.   保持一颗童心。
+
 134、Shit happens, but life goes on!   坑爹的事时有发生，但生活总得继续。
+
 135、Two heads are better than one.   三个臭皮匠顶过一个诸葛亮。
+
 136、Would you prefer white or red？   你喜欢喝白葡萄酒还是红葡萄酒？
+
 137、Do or do not. There is no try.   要么做，要么滚！没有试试看这一说。
+
 138、hi, july, please go easy on me!   你好，七月！希望这个月好过点！
+
 139、Man's nature at birth is good.   人之初，性本善。
+
 140、It's just a storm in a teacup.   没什么可大惊小怪的。
+
 141、Love is making you go bananas.   恋爱把你变得疯疯癫癫的。
+
 142、My bank account is in the red.   我的银行存款已出现赤字。
+
 143、My love for you will never die.   我对你的爱，爱，爱不完…
+
 144、Let's do not do anything hasty.   别那么早下定论。《里约大冒险》
+
 145、East or west, home is the best.   金窝银窝不如自家的草窝。
+
 146、You have the ball at your feet.   我看好你哦！(俚语)
+
 147、Only dead fish follow the flow.   只有死鱼才随波逐流。(芬兰谚语)
+
 148、Life is tough, but I'm tougher.   生活很艰苦，但我更坚强。
+
 149、Always do something unexpected.   始终保持创意性。《料理鼠王》
+
 150、Money makes the world go round.   有钱能使鬼推磨。《越狱》
+
 151、Man, he's as slow as christmas!   天啊，他开车真是有够慢的！
+
 152、John is such an apple-polisher.   约翰是个马屁精。
+
 153、Always bring your own sunshine.   时刻带着自己的阳光。
+
 154、He who laughs last, laughs best.   谁笑到最后，谁就笑得最好。
+
 155、For you, a thousand times over.   为你，千千万万次都心甘情愿。
+
 156、Actions speak louder than words.   事实胜于雄辩。
+
 157、Courage is grace under pressure.   勇气就是压力下的优雅。(海明威)
+
 158、Every cloud has a silver lining.   守得云开见月明。
+
 159、forward! That is the battle cry.   勇往直前才是我的作战口号。《纸牌屋》
+
 160、Chance favors the prepared mind.   机会眷顾那些有准备的人。—路易斯·巴斯德
+
 161、May you be happy and prosperous.   恭喜发财！
+
 162、Be careful of what you fish for.   对你调查的东西要小心哦。
+
 163、Every life deserves our respect.   每一个生命都应该被尊重。
+
 164、She really takes a shine to you.   她真喜欢上你了哦。
+
 165、Opportunity seldom knocks twice.   机不可失，时不再来。
+
 166、You can be happy no matter what.   开心一点吧，管它会怎样。
+
 167、Life is short and time is swift.   人生短暂，时光飞逝。
+
 168、You're still wet behind the ears.   你还嫩点儿。
+
 169、Some things are best left unsaid.   有些东西不说最好。—影片《肖申克的救赎》
+
 170、Live to learn, not learn to live.   活着就要学习，学习不是为了活着。(培根)
+
 171、We need to take some precautions.   我们要提前做好准备。《吸血鬼日记》
+
 172、Whatever happens, we're a family.   不管发生什么，我们始终是一家人。—影片《阳光小美女》
+
 173、If not now, when? If not me, who?   此时此刻，舍我其谁！(马云)
+
 174、Today is a red letter day for us.   今天对我们来说是个值得庆祝的喜庆日子。
+
 175、Without risk, there is no reward.   不入虎穴，焉得虎子。
+
 176、All things are obedient to money.   有钱能使鬼推磨。
+
 177、Catch one's heart, never be apart.   愿得一人心，白首不相离。
+
 178、Always wear your invisible crown.   永远戴着属于你的隐形王冠。
+
 179、I will keep waiting till we meet.   我会一直等待，直到与你相遇。《给朱丽叶的信》
+
 180、Smile while you still have teeth.   趁年轻还有一口好牙，多笑笑吧！
+
 181、Life is not fair, get used to it.   生活是不公平的，去适应它！(比尔·盖茨)
+
 182、Silence is the most powerful cry.   沉默是最有力的呐喊。《美丽人生》
+
 183、Never too late for a fresh start.   重新开始从不太迟。《吸血鬼日记》
+
 184、Never lose the child-like wonder.   永远不要失去孩童般的好奇心。(兰迪·波许)
+
 185、One today is worth two tomorrows.   今日之时最珍贵，明日之时不可待。
+
 186、Dare and the world always yields.   大胆挑战，世界总会让步。(W.M. 萨克雷)
+
 187、Every obstacle is an opportunity.   每个障碍都是一次机会。—影片《快乐的大脚2》
+
 188、Friends do favors for each other.   朋友会为彼此两肋插刀。
+
 189、Calmer heads will always prevail.   冷静才能致胜。《吸血鬼日记》
+
 190、Do it today or later you will pay!   今日事，今日毕！—《哈利波特与凤凰社》
+
 191、Birds of a feather flock together.   物以类聚，人以群分。
+
 192、This cell phone sure is hot stuff.   这款手机真够棒的!
+
 193、May everything fall into your lap.   万事如意！
+
 194、After a hurricane comes a rainbow.   风雨之后总会见彩虹。
+
 195、Look, sometimes bad things happen.   人生不如意十有八九。—影片《狮子王》（1994）
+
 196、Some people are worth melting for.   有的人值得我为她融化。《冰雪奇缘》
+
 197、Be generous with your compliments.   不要吝惜你的赞美。
+
 198、Happiness consists in contentment.   知足常乐。
+
 199、May wealth come generously to you.   祝你财源广进。
+
 200、Get busy living or get busy dying.   要么好好活着，要么赶紧去死。《肖申克的救赎》
+
 201、Smoking is harmful to your health.   吸烟有害健康！
+
 202、Sorry seems to be the hardest word.   难以开口说抱歉。
+
 203、Never put the plow before the oxen.   永远不要本末倒置。
+
 204、Don't let dream just be your dream.   别让梦想只停留在梦里。
+
 205、A child is not a vase to be filled.   孩子不是一个等着被填满的瓶子。—弗朗索瓦‧拉伯雷
+
 206、The devil is always in the details.   细节决定成败。《金装律师》
+
 207、Well done is better than well said.   说得好不如做得好。(富兰克林)
+
 208、NO victory comes out without price.   没有人能随随便便成功。《绝望主妇》
+
 209、I feel strongly that I can make it.   我坚信，我会成功。
+
 210、Youth comes but once in a lifetime.   人生不过一次少年。（五四青年节）
+
 211、The only limit is your imagination.   唯一的局限是你的想象力。
+
 212、No great thing is created suddenly.   没有任何伟大的事是突然产生的。—爱比克泰德
+
 213、Your future depends on your dreams.   你的梦想决定着你的未来。
+
 214、I will start fresh, be someone new.   我要重新开始，做不一样的自己。《吸血鬼日记》
+
 215、To be prepared is half the victory.   做好准备是成功的一半。—米格尔‧德·赛万提斯
+
 216、I was gonna survive no matter what.   不管如何，我都要生存下去。—影片《美国骗局》
+
 217、His persistence gained him victory.   他一拼到底，赢得胜利！
+
 218、Sometimes, you can be really thick.   有时候，你可真够“二”的。
+
 219、Take a sad song and make it better.   找一首哀伤的歌，把它唱得更快乐。《Hey Jude》
+
 220、Keep trying! Don't give up the ship.   继续努力! 别放弃!
+
 221、You can't judge a book by its cover.   你不能以貌取人。《绝望主妇》
+
 222、I'm who I'm, I have nothing to hide.   我就是我，无须掩藏。(Adam Lambert)
+
 223、Try and fail, but don't fail to try.   尝试后可能会放弃，但千万不能放弃尝试。
+
 224、I do not have friends. I got family.   他们不是朋友，而是我的家人。—《速度与激情7》
+
 225、Happy girls are the prettiest girls.   快乐的女孩是最美的！(奥黛丽·赫本)
+
 226、Take the moment and make it perfect.   抓住当下，让它成为完美时刻。
+
 227、Dreams are made possible if you try.   只要努力，梦想就会实现。
+
 228、We all have our places in the world.   天生我才必有用。《功夫熊猫》
+
 229、Single is simple, double is trouble.   一个人很简单，两个人很麻烦。
+
 230、You don't think that crosses a line?   你不觉得太过分了吗？《生活大爆炸》
+
 231、No one but ourselves can degrade us.   没人能够贬低我们，除非是我们自己。
 232、Generosity is its own form of power.   别低估了慷慨的力量。《纸牌屋》
 233、Think big goals and win big success.   目标远大则成就伟大。
