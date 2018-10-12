@@ -2007,82 +2007,159 @@ Morley)
 1000、—What is the worst weather for a mouse? —When it rains cats and dogs.   —老鼠最害怕什么天气? —当然是倾盆大雨啦。
 
 1001、We're all on running clocks, and they can't be slowed down or paused.   我们都像在不停运转的时钟上，你不可能让它慢下来或者暂停。—影片《在云端》
+
 1002、Man only likes to count his troubles, but he does not count his joys.   人们只喜欢计算他们的麻烦，不喜欢计算他们的喜悦。(Fyodor Dostoevsky)
+
 1003、I'm not so sure being in the same place is the same as being friends.   我不认为在一起生活就等同是朋友。—影片《夏洛特的网》
+
 1004、Luck is a dividend of sweat. The more you sweat, the luckier you get.   运气是努力的附带好处，你流的汗水越多，你就越幸运。—雷‧克罗克
+
 1005、A father's greatest dream is that his child's life is filled with joy.   父亲的最大梦想就是孩子的生活是充满欢乐的。
+
 1006、The world moves. You are just a speck. It can long happen without you.   地球在转，你只是一颗灰尘。没有你，世界照样在转。—影片《风雨哈佛路》
+
 1007、Some things are so important that they force us to overcome our fears.   总有些更重要的事情，赋予我们打败恐惧的勇气。
+
 1008、Genius is one per cent inspiration, ninety-nine per cent perspiration.   天才是1%的天分加99%的努力。(托马斯·爱迪生)
+
 1009、The future belongs to those who believe in the beauty of their dreams.   未来属于那些相信梦想之美的人。(埃莉诺·罗斯福)
+
 1010、It's part of the job of life to find out who you are and what you got.   人生的意义之一就在于发现自我，寻找到自己的长处。—影片《快乐的大脚2》
+
 1011、What does youth have that's worth showing off? Have you ever been old?   年轻有什么好炫耀的？你们老过吗？
+
 1012、Some people dream of success while others wake up and work hard at it.   有些人还在继续梦想成功时，另一些人却已经醒来努力为之奋斗了。
+
 1013、Jeremy Lin is the first American player in the NBA of Chinese descent.   林书豪是NBA史上第一名具有中国血统的美籍球员。
+
 1014、The biggest adventure you can take is to live the life of your dreams.   你能经历的最大冒险，就是过你梦想的生活。(Oprah Winfrey )
+
 1015、Life offers you a thousand chances . . . all you have to do is take one.   生活不断地赐予你许许多多机会，而你唯一需要做的只是把握其中一个。《托斯卡尼艳阳下》
+
 1016、Sometimes, all we need is a hand to hold and a heart that understands.   有时候，我们想要的只是一只可以握的手和一颗善解人意的心。
+
 1017、When the world turns its back on you, you turn your back on the world.   如果这个世界对你不理不睬，你也可以这样对待它。《狮子王》
+
 1018、No matter what label is thrown your way, only you can define yourself.   不管你被贴上什么标签，只有你才能定义你自己。--电影《丑女也有春天》
+
 1019、Success is not guaranteed. It is not handed to you. Success is earned.   成功无法保证，并非唾手可得。成功必须靠自己去争取。
+
 1020、The greatest lesson of life is that you are responsible for your life.   人生最重要的训诫是你要为你的人生负责。—奥普拉·温弗瑞
+
 1021、The only thing we have to fear is fear itself. --Franklin D. Roosevelt   唯一能够让我们恐惧的，就是恐惧本身。
+
 1022、The Spring Festival marks the beginning of the Chinese Lunar New Year.   春节标志着农历新年的开始。
+
 1023、It's better to have fought and lost, than never to have fought at all.   奋战过失败，胜过不战而败。
+
 1024、Be strong, believe in who you are; be strong, believe in what you feel.   强大一些，要相信你自己；强大一些，要相信自己的感觉。
+
 1025、We have to do the best we can. This is our sacred human responsibility.   我们必需做我们能力所及最好的，这是我们人类神圣的职责。—阿尔伯特‧爱因斯坦
+
 1026、I am not a product of my circumstances. I am a product of my decisions.   我不是环境的产物，而是自我决定的产物。—史蒂芬‧柯维
+
 1027、Worry never robs tomorrow of its sorrow, it only saps today of its joy.   忧虑绝不会化解明天的不幸，它只会夺走今天的快乐。
+
 1028、Don't complain about things you are not willing to work hard to change.   如果你不愿意努力去改变，那就不要抱怨。
+
 1029、This is practically spiritual. This is about overthrowing dead culture.   实际上，这是精神上的东西，它将会颠覆呆板的文化。—影片《硅谷传奇》
+
 1030、If you want the best the world has to offer, offer the world your best.   你若想得到这世界最好的东西，先得让世界看到最好的你。(Neale Donald Walsch)
+
 1031、Everything will be okay in the end. If it's not okay, it's not the end.   每件事最后都会是好事。如果不是好事，说明还没到最后。
+
 1032、All the bright, precious things fade so fast. And they don't come back.   那些美好的东西，总是消逝得太快，而且一去不复返。—影片《伟大的盖茨比》
+
 1033、Take a few minutes to appreciate what you have and how far you've come.   稍稍沉下心来，欣赏自己拥有的和所完成的。
+
 1034、It is not our abilities that show what we truly are, it is our choices.   决定我们成为什么样人的，不是我们的能力，而是我们的选择。《哈利•波特与密室》
+
 1035、Do not, for one repulse, forgo the purpose that you resolved to effect.   不要只因一次挫败，就放弃你原来决心想达到的梦想。（莎士比亚）
+
 1036、Accept the challenges so that you may feel the exhilaration of victory.   接受挑战能让你感受胜利的喜悦。—乔治‧巴顿
+
 1037、Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.   努力过，失败过，没关系，屡战屡败，屡败屡战，每一次失败都比上一次更好。
+
 1038、Sometimes, when you are a little different, the world laugh at you, ja?   有时候，当你和别人有点不一样的时候，大家就会笑话你，对吧？—影片《快乐的大脚2》
+
 1039、You only live once, so tell me, what are you, what are you waiting for?   人生只有一次，所以告诉我，你还在等什么？
+
 1040、The difference between ordinary and extraordinary is that little extra.   平庸与卓越之间的差异，在于那一点点的额外努力。(Jimmy Johnson)
+
 1041、Happiness is always knocking on your door and you just gotta let it in.   幸福总会敲门，你只需要开门让它进来。
+
 1042、All the bright precious things fade so fast. . . and they don't come back.   所有的光鲜亮丽都敌不过时间，并且一去不复返。《了不起的盖茨比》
+
 1043、A kid's got enough problems in this world not knowing where it belongs.   如果不知道自己的归属，一个孩子在这个世上会遇到很多的问题。—影片《硅谷传奇》
+
 1044、Do not, for one repulse, forgo the purpose that you resolved to effort.   不要只因一次挫败，就放弃你原来决心想达到的目的。
+
 1045、The key to a happy life is to accept you are never actually in control.   幸福生活的关键是要接受你永远无法真正掌控一切的现实。--电影《侏罗纪公园》
+
 1046、We're creating a completely new consciousness like an artist or a poet.   我们像艺术家或者诗人一样，正在创造一个全新的信仰。—影片《硅谷传奇》
+
 1047、Let life be beautiful like summer flowers and death like autumn leaves.   生如夏花之灿烂，死如秋叶之静美。（泰戈尔）
+
 1048、It doesn't matter what they call you. It's the deeds that make the man.   他们怎么叫你并不重要，重要的是你自己要怎么做。《兰戈》
+
 1049、The best colour in the whole world, is the one that looks good, on you!   最适合你的颜色，才是世界上最美的颜色。
+
 1050、Early to bed and early to rise, makes a man healthy, wealthy, and wise.   早睡早起使人健康、富裕又聪明。(Benjamin Franklin)
+
 1051、It's an "I" in "happiness". There's no "Y" in "happiness" – It's an "I".   幸福里有个“我”——幸福里面没有“为什么”，只有“我”。—影片《当幸福来敲门》
+
 1052、One boy is one boy. Two boys are half a boy. Three boys are no boy at all.   一个和尚挑水喝，两个和尚抬水喝，三个和尚没水喝。
+
 1053、Humility is not thinking less of yourself but thinking of yourself less.   谦卑不是看轻自己，而是不仅为自己着想。(C.S. Lewis)
+
 1054、Cherish every moment with those you love at every stage of your journey.   人生的每个阶段，都要珍惜和所爱的人在一起的每一刻。
+
 1055、Life is like riding a bicycle. To keep your balance, you must keep moving.   人生就像骑单车，只有不断前进，才能保持平衡。(爱因斯坦)
+
 1056、Dear daddy, I may find a prince someday, but you will always be my king.   亲爱的老爸，也许有一天我会找到我的王子，但你永远是我的国王。
+
 1057、Good luck is when an opportunity comes along and you're prepared for it.   好运就是当机会来临时，你早已做好了准备。
+
 1058、Don't give up, just be you. Because life's too short to be anybody else.   不要放弃做自己，人生很短，根本没时间模仿别人。
+
 1059、Instead of complaining about what's wrong, be grateful for what's right.   别抱怨不好的事，要对美好的事心存感恩。
+
 1060、Love is some kind of encounter, unable to be waited for or prepared for.   爱是一种遇见，不能等待，也不能准备。
+
 1061、A cook stood in a wood, shook his foot and took a look at his good book.   一个厨师站在树林里，一边晃动他的脚，一边看了眼他那本不错的书。
+
 1062、Give every day the chance to become the most beautiful day of your life.   让每一天都有机会成为你人生中最美好的一天。
+
 1063、All great and honorable actions are accompanied with great difficulties.   所有伟大及崇高的行动都伴随着极大的困难。—威廉‧布莱德福德
+
 1064、You will never have what you like until you learn to like what you have.   要得到你喜欢的东西，应先学会喜欢你已有的东西。(歌德)
+
 1065、A truly happy person is one who can enjoy the scenery while on a detour.   真正快乐的人是那种在走弯路时也不忘享受风景的人。
+
 1066、A strong man stands up for himself. A stronger man stands up for others.   强人为自己，更强的人为大家。
+
 1067、Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.   岁月留痕，只及肌肤；激情不再，皱起心灵。
+
 1068、Everyone is a moon, and has a dark side which he never shows to anybody.   每个人都像月亮，都有着不愿示人的一面。（Mark Twain）
+
 1069、This wasn't the real world; we really only lived in each other's hearts.   这不是真实的世界，我们真的只活在对方的心里。—影片《风雨哈佛路》
+
 1070、If you love life, don't waste time, for time is what life is made up of.   如果你爱生活，那就不要浪费时间，因为生活就是由时间组成的。(李小龙)
+
 1071、We all make our choices in life. The hard thing to do is live with them.   我们在人生中会作出许多选择，带着这些选择继续生活，才是人生中最难的一课。《妙笔生花》
+
 1072、But man is not made for defeat. A man can be destroyed but not defeated.   但人不是为失败而生的。一个人可以被毁灭，但不能被打败。 --海明威《老人与海》
+
 1073、True friendship comes when the silence between two people is comfortable.   真正的友情是，即使两人不说话，也觉得很舒服。(David Tyson Gentry)
+
 1074、High achievement always takes place in the framework of high expectation.   高成就永远是在高期待的前提下所产生。—查尔斯‧凯特灵
+
 1075、If you're not having problems, you are missing an opportunity for growth.   如果你没有疑问，你正失去一个成长的机会。
+
 1076、Consider the bad times as down payment for the good times. Hang in there.   把苦日子当做好日子的首付，坚持就是胜利！
+
 1077、You may be disappointed if you fail, but you are doomed if you don't try.   失败了你可能会失望，但不尝试你将注定败亡。—贝佛利·席尔丝
+
 1078、There's nothing more beautiful than a smile that struggles through tears.   世上最美的，莫过于从泪水中挣脱出来的那个微笑。
 1079、Trust is like an eraser. It gets smaller and smaller after every mistake.   信任就像橡皮擦，每犯一次错，就会变小一点。
 1080、Life and death are determined by fate, rank and riches decreed by heaven.   生死有命，富贵由天。
