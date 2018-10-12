@@ -2161,197 +2161,386 @@ Morley)
 1077、You may be disappointed if you fail, but you are doomed if you don't try.   失败了你可能会失望，但不尝试你将注定败亡。—贝佛利·席尔丝
 
 1078、There's nothing more beautiful than a smile that struggles through tears.   世上最美的，莫过于从泪水中挣脱出来的那个微笑。
+
 1079、Trust is like an eraser. It gets smaller and smaller after every mistake.   信任就像橡皮擦，每犯一次错，就会变小一点。
+
 1080、Life and death are determined by fate, rank and riches decreed by heaven.   生死有命，富贵由天。
+
 1081、Do not, for one repulse, give up the purpose that you resolved to effect.   别因为一次失败，就放弃你原先所要达到的目的。（莎士比亚）
+
 1082、Life is a wonderful journey. Make it your journey and not someone else's.   生命是一段精彩旅程，要活的有自己的样子，而不是别人的影子。
+
 1083、The respectability of youth lies in their courage and great expectations.   年轻人的可敬之处在于勇气和远大前程。(王小波)
+
 1084、Upon my word, you give your opinion very decidedly for so young a person.   真想不到，你这么年轻，倒挺有主见啊！—影片《傲慢与偏见》
+
 1085、She lived in my heart. But I lived nowhere. I was all alone in the world.   她就住在我心里，但是我却没有地方去。我独自一个人活在这个世界上。—影片《风雨哈佛路》
+
 1086、Anything is possible, as long as you set your mind, heart and soul to it.   世界上没有做不到的事，只要你全心全意去做。
+
 1087、Never regret anything because at one time it was exactly what you wanted.   不要后悔做任何事情，因为曾经有个时候，那正是你想要的。
+
 1088、Confidence comes not from always being right but not fearing to be wrong.   信心不是来自永远正确，而是来自不怕犯错。(Peter T. Mcintyre)
+
 1089、Don't make oaths lightly to the moon, for it is always waxing and waning.   不要轻易对月亮起誓，因为它总有阴晴圆缺。
+
 1090、When you want to succeed, you should use persistence as your good friend.   当你希望成功，当以恒心为良友。（爱迪生）
+
 1091、It's like sometimes not knowing how crazy something is. . . is a good thing.   就像有的时候意识不到一件事有多么地疯狂，这是件好事。—影片《硅谷传奇》
+
 1092、Should this have remained unseen at the bottom of the ocean for eternity?   难道说，它就该沉睡海底，永远不得重见天日吗？—影片《泰坦尼克号》
+
 1093、The difference between who you are and who you want to be is what you do.   你是什么样的人和你想成为什么样的之间的差距就是，你做了什么。
+
 1094、Somehow the silence seemed to connect us in a way that words never could.   有时，沉默对我们而言，可谓无声胜有声。—影片《怦然心动》
+
 1095、Too many people overvalue what they are not and undervalue what they are.   有太多的人高估他们所欠缺的，却又低估他们所拥有的。
+
 1096、If you're doing your best, you won't have any time to worry about failure.   如果你竭尽全力，就没时间担心失败。(H. Jackson Brown, Jr.)
+
 1097、Good friends, good books, and a sleepy conscience: this is the ideal life.   益友、良书和一颗宁静的心，这就是理想的生活。（马克·吐温）
+
 1098、To the world you may be one person but to one person you may be the world.   对于世界而言，你可能是一个人，但是对于某人，你却是整个世界。
+
 1099、You can't have a better tomorrow if you're still thinking about yesterday.   如果你还在纠结于昨天，就不会拥有更美好的明天。
+
 1100、You never know how strong you are, until being strong is your only choice.   不到没有退路之时，你永远不会知道自己有多强大.(Bob Marley)
+
 1101、Enjoy your youth. You'll never be younger than you are at this very moment.   好好享受青春，你再也不会有哪个时刻会比此时更年轻了。
+
 1102、Nothing lasts forever and life is limited. Everyone is equal before cancer.   世事无常，生命有限。在癌症面前，人人平等。(李开复)
+
 1103、Life is just like a painting. Many things make it colorful and meaningful.   生活就像一幅画，许多事情赋予了生活色彩和意义。
+
 1104、The only limit to our realization of tomorrow will be our doubts of today.   实现明天理想的唯一障碍是今天的疑虑。（Franklin D. Roosevelt）
+
 1105、Never frown, because you never know who is falling in love with your smile.   别愁眉不展，因为你不知道谁会爱上你的笑容。
+
 1106、Every story has an end. But in life, every ending is just a new beginning.   每段故事都有一个结局。但是在人的一生中，每一个终点同时也是一个新的起点。《麻辣宝贝》
+
 1107、—Why is the superhero's clothes so tight? —Because it is important to save.   —为什么超级英雄要穿那么紧的衣服？—因为救人要紧。
+
 1108、Sometimes we show the least amount of love to the people we love the most.   我们对最爱的人，往往表达的爱意最少。（Leo Buscaglia）
+
 1109、Sometimes, all it takes is a little key to open the door to the wild side.   有时候，我们需要的只是一把小小的钥匙来打开通向户外的门。《绯闻女孩》
+
 1110、Setting goals is the first step in turning the invisible into the visible.   设计目标是将愿景清晰化的第一步。（美国励志演说家，安东尼·罗宾）
 1111、Perseverance is not a long race; it is many short races one after another.   坚持不懈不是一个长跑，而是一个接着一个的短跑！(Walter Elliot)
+
 1112、You know that maybe it's time for miracles 'Cos I ain't giving up on love.   你知道也许已是奇迹来临的时刻，因为我不能对爱放弃。
+
 1113、I want to stand beside people, beside walk and not be so far beneath them.   我想和人们平起平坐，而不是远远地处在他们之下。—影片《风雨哈佛路》
+
 1114、You can always be a worse version of "him", or better version of yourself.   你不是要做一个单纯优秀的人，而是要做一个不可替代的人。
+
 1115、If a man empties his purse into his head, no man can take it away from him.   把财富转化为知识，没人能夺走它。(Benjamin Franklin)
+
 1116、Every single moment counts. When you add them all up, they equal your life.   每个时刻都很重要。把所有时刻加起来，就等于你的人生。(Susan Gale)
+
 1117、Sometimes I do what I want to do. The rest of the time I do what I have to.   有时候，我做我想做的事，其它时候，我做我该做的事。《角斗士》
+
 1118、A man can succeed at almost anything for which he has unlimited enthusiasm.   无论何事，只要对它有无限的热情你就能取得成功。（C. M. Schwab）
+
 1119、Don't fear pressure, for pressure is what turns rough stones into diamonds.   不要怕压力，因为压力能把石头变成钻石。
+
 1120、Defeat is not the worst of failures. Not to have tried is the true failure.   挫折并非最惨痛的失败，真正的失败则是从未尝试。(George Edward Woodberry)
+
 1121、Don't drive after drinking. I know you don't want to see me right now. --GOD   酒后别开车，我知道你还不想见到我。--上帝
+
 1122、We don't need people who follow the rules. We need people with personality.   我们不需要循规蹈矩的人，我们需要有个性的人。
+
 1123、Change your life today. Don't gamble on the future, act now, without delay.   今天就开始改变你的生活。不要把赌注下在明天，快行动，别拖沓。(Simone de Beauvoir)
+
 1124、We must accept finite disappointment, but we must never lose infinite hope.   我们必须接受有限的失望，但是不可以失去无限的希望。(马丁·路德·金)
+
 1125、Life will knock us down, but we can choose whether or not to stand back up.   生活会把我们打趴下， 但我们可以选择是否重新站起来。
+
 1126、A man of genius makes no mistakes. His errors are the portals of discovery.   一个有睿智的人不犯错，他的错误是通往新发现的入口。—詹姆斯‧乔伊斯
+
 1127、Remember that adversity is not a dead end but a detour to a better outcome.   记住，逆境并不是尽头，而是更好结果的一个转角而已。
+
 1128、Climb mountains not so the world can see you, but so you can see the world.   爬上山顶并不是为了让全世界看到你，而是让你看到整个世界。
+
 1129、Life was like a box of chocolates. You never know what you're going to get.   人生就像一盒巧克力，你永远无法预知下一个吃到的是什么味道。—影片《阿甘正传》
+
 1130、Our destiny offers not the cup of despair, but the chalice of opportunity.     命运给予我们的不是失望之酒，而是机会之杯。（尼克松）
+
 1131、We are what we repeatedly do. excellence, then, is not an act, but a habit.   我们重复的行为造就了我们。因此，优秀不是一个行为，而是一种习惯。(亚里士多德)
+
 1132、Just make sure, you know, you appreciate those who are still there for you.   要记住，一定要珍惜那些还在你身边的亲朋好友。《生活大爆炸》
+
 1133、Try not to become a man of success but rather try to become a man of value.   与其努力成功，不如努力成为有价值的人。(爱因斯坦)
+
 1134、Although she doesn't know much about football, she understands his sadness.   她不懂足球，但她懂得他的悲伤。
+
 1135、Go as far as you can see; when you get there you'll be able to see farther.   走到你能看到的最远之处，当你到那，你将能够看到更远。—托马斯‧卡莱尔
+
 1136、It's not suspicious that I'm fixating. It's consistent with my personality.   我专注一件事没什么奇怪的。我一直就这性格。《生活大爆炸》
+
 1137、I fear the worst too, because fearing the best is a complete waste of time.   我也害怕最糟的情况可能会发生，因为害怕最好的会发生完全是在浪费时间。—影片《快乐的大脚2》
+
 1138、Never let success get to your head and never let failure get to your heart.   不要让成功冲昏了头脑，也不要把失败记在心里。(Ziad K.Abdelnour)
+
 1139、The person whose calls you always take – that's the relationship you're in.   能让你随时接电话的人，才是你真正在乎的人。—影片《穿普拉达的女王》
+
 1140、You don't throw a whole life away just because it's banged up a little bit.   即便生活总有不如意，你也不能将其全部放弃。《奔腾年代》
+
 1141、I believe that you should treat people the way that you want to be treated.   我相信人应该将心比心。—影片《美国骗局》
+
 1142、Reading makes a full man, conference a ready man, and writing an exact man.   阅读使人充实，交谈使人机智，写作使人精确。（培根）
+
 1143、The only way you could meet my crazy was by doing something crazy yourself.   你不做点儿二的事，就无法和我二在一起！《乌云背后的幸福线》
+
 1144、Life consists not in holding good cards but in playing those you hold well.   人生不在于手握一副好牌，而是打好你手上的牌。—乔希‧比林斯
+
 1145、Keep your eyes open and your feet moving forward. You'll find what you need.   保持眼界开阔，持续向前，你会找到想要的一切。
+
 1146、The greatest thing you'll ever learn is just to love and be loved in return.   世上最美妙的事，莫过于爱以及被爱，彼此相对的付出。《红磨坊》
+
 1147、The harder thing to do and the right thing to do are usually the same thing.   难做的事和该做的事，往往是同一件事。《气象先生》
+
 1148、The only person you should try to be better than, is who you were yesterday.   你唯一应该超越的人，是昨天的自己。
+
 1149、Only by coming to grips with difficulty can you realize your full potential.   唯有直面及处理困难，你才能够发挥自己最大的潜能。(戴高乐将军)
+
 1150、Walking with a friend in the dark is better than walking alone in the light.   和朋友在黑暗里同行，好过一人在光明中独步。(Helen Keller)
+
 1151、"Sir" is a term of respect. And you will have my respect until you abuse it.   “先生”是表示尊敬，如果你们经常将它挂在嘴上的话，你们将会得到我的尊敬。—影片《卡特教练》
+
 1152、Sometimes all doors may be closed for you, but remember, they aren't locked.   有时候，在你看来，所有的门似乎都关上了，但请记住，关上并不代表锁上。
+
 1153、Good judgment comes from experience, and experience comes from bad judgment.   良好的判断力来源于经验，而经验则往往来自于错误的判断。
+
 1154、Home is the place where, when you have to go there, they have to take you in.   无论何时何地,家永远是向游子敞开大门的地方。(Frost Robert)
+
 1155、Life is too short. Be sure that you have never had any regrets in your life.   人生短暂，一定不要给自己的人生留下什么遗憾。
+
 1156、Don't look at your phone for more than two hours, because it will power off.   千万不要连续对着手机超过两个小时，因为那样手机会没电。
+
 1157、Hope is a good thing, maybe the best of things. And no good thing ever dies.   希望是美好的，也许是人间至善，而美好的事物永不消逝。—影片《肖申克的救赎》
+
 1158、The nature of promises is that they remain immune to changing circumstances.   所谓承诺，就是无论环境如何变化也不受影响。《纸牌屋》
+
 1159、And at other times, I knew wherever my mother was, that's where my home was.   后来，我终于明白了，妈妈在哪里，我的家就在哪里。—影片《风雨哈佛路》
+
 1160、Success seems to be largely a matter of hanging on after others have let go.   成功在很大程度上似乎就是别人放弃后，你仍然坚持下去了。(WIlliam Feather)
+
 1161、It doesn't matter where you came from. What matters is who you choose to be.   你来自哪里并不重要，重要的是你选择成为什么样的人。
+
 1162、Go as far as you can see; when you get there, you'll be able to see farther.   走到你能看到的最远处，当走到那，将能看得更远。(J. P. Morgan)
+
 1163、Taking the exam is one thing but passing it is a horse of a different color.   考试是一回事；通过考试又是另一回事。
+
 1164、Whether it is happiness or sorrow, it would finally become memories of life.   一生中无论快乐与悲伤，最后都将成为回忆。
+
 1165、As long as I have a want, I have a reason for living. Satisfaction is death.   只要有欲望，我就有生存的理由，满足视同死亡。—萧伯纳
+
 1166、We should consider every day lost on which we have not danced at least once.   每一个不曾起舞的日子，都是对生命的辜负。(尼采)
+
 1167、Most people spend their time on the "urgent" rather than on the "important".   多数人将时间花在“急迫”而非“重要”的事情上。—罗伯特‧哈钦斯
+
 1168、I never won anything without hard labor and the exercise of my best judgment.   我从来没有不经努力或运用我最好的判断，而赢取任何事情。—西奥多尔‧罗斯福
+
 1169、Success is often achieved by those who don't know that failure is inevitable.   成功通常是由那些不知失败是无可避免的人所达成。—可可‧香奈儿
+
 1170、English has hurt me a thousand times, but I still regard it as my first love.   英语伤我千百遍，我待英语如初恋。
+
 1171、Even if we can't be together in the end, I'm glad you were a part of my life.   即使最后我们无法在一起，我依然会感激生命中有你。
+
 1172、Doing the best at this moment puts you in the best place for the next moment.   这一刻全力以赴，下一刻便可占尽先机。
+
 1173、The difference between successful persons and others is that they really act.   成功者和其他人最大的区别就是，他们真正动手去做了。
+
 1174、Everybody thinks of changing humanity, and nobody thinks of changing himself.   每个人都在想着改变别人，但没有人想去改变自己。—列夫‧托尔斯泰
+
 1175、Every step towards your dream today is a step away from your regret tomorrow.   今日为梦想所付出的每一份努力都会减少明日的一份后悔。
+
 1176、In the battle of existence, talent is the punch; tact is the clever footwork.   在生存的竞赛里，才能好比拳击，圆滑则是灵巧的步法。—威尔森·米兹勒
+
 1177、If you're brave enough to say goodbye, life will reward you with a new hello.   只要你勇敢地说出再见，生活一定会给你一个新的开始。
+
 1178、Design is not just what it looks like and feels like. Design is how it works.   设计不只是看起来及摸起来像什么，设计是怎么运作。—史蒂夫‧乔布斯
+
 1179、All the art of living lies in the fine mingling of letting go and holding on.   生活的艺术在于，好好把握每一次的放手与坚持。
+
 1180、A little consideration, a little thought for others makes all the difference.   一点点体贴，一点点为他人着想，会让一切都不一样。
+
 1181、Wake up everyday stronger than yesterday, face your fear and wipe your tears.   每天醒来都要变得比昨天更强大，直视恐惧，擦干泪水。
+
 1182、The best time to plant a tree was 20 years ago. The second-best time is today.   种树的最佳时间是20年前，仅次于它的最佳时间是现在。
+
 1183、There are no boundaries or barriers if two people are destined to be together.   如果两个人命中注定要在一起，那么就没有任何东西可以阻碍他们。(Julia Roberts)
+
 1184、Nobody gets to live life backwards. Look ahead, that's where your future lies.   谁也不能回到过去。向前看，那才是你未来的所在。(Ann Landers)
+
 1185、It's not about how well you play. It's how you feel about what you're playing.   你弹得有多好并不重要，重要的是，你弹奏时所赋予你的感受。—影片《返老还童》
+
 1186、To fly as fast as thought, you must begin by knowing you have already arrived.   为让飞行快如想法，你必须从知道你已经到达开始。—理查德‧巴赫
+
 1187、Lichun traditionally signifies the beginning of spring in East Asian cultures.   在东方传统文化中，立春是春天的开始。
+
 1188、If you are willing, I will always love you. Would you like, I will never miss.   你若有意，我将深爱不逾。你若无意，我也绝不牵挂。《吸血鬼日记》
+
 1189、So we beat on boats against the current. Borne back ceaselessly into the past.   我们便努力划桨，让小舟逆流而上。一次次不停地被浪潮退回过往。—影片《伟大的盖茨比》
+
 1190、Go confidently in the direction of your dreams. Live the life you've imagined.   充满信心地朝着你梦想的方向前进，过你一直向往的生活。
+
 1191、It takes no time to fall in love, but it takes you years to know what love is.   一见钟情只在瞬息之间，而对爱大彻大悟却需要很多年。
+
 1192、If it is important to you, you will find a way. If not, you'll find an excuse.   如果你认为重要，总会想到办法。如果你认为不重要，总会找理由。
+
 1193、A mother is not a person to lean on, but a person to make leaning unnecessary.   母亲不是赖以依靠的人，而是让你有能力不依靠的人。(Dorothy Canfield Fisher)
+
 1194、Love means understanding, not agreement. It means forgiveness, not forgetting.   爱是理解，不是妥协。爱是原谅，不是遗忘。
+
 1195、Nothing is ever a setback. If anything, it just motivates you for what's next.   没有挫折这回事，它若具有任何意义，那只是激励你在下个挑战中表现更好。—克莉丝蒂娜‧阿奎莱拉
+
 1196、He who is not courageous enough to take risks will accomplish nothing in life.   没有勇气冒险的人，他的人生将一事无成。—穆罕默德‧阿里
+
 1197、If you want to achieve a high goal, you're going to have to take some chances.   如果你想达到一个高目标，你必须得冒点险。—阿尔贝托•萨拉查
+
 1198、When you have choices, choose the best. When you have no choice, do your best.   有选择时，选最好的。没选择时，尽力做到最好。
+
 1199、Don't you do that. Don't you say your goodbyes. Not yet. Do you understand me?   别那样，别说再见，还没有到说再见的时候，你明白我的意思吗？—影片《泰坦尼克号》
+
 1200、We are what we repeatedly do. Excellence therefore is not an act, but a habit.   我们重复的行为造就了我们。因此，卓越不是一个行为，而是一个习惯。—亚里士多德
+
 1201、All the advantage isn't in running fast, but rather in getting an early start.   优势不在于跑得快，而在于起身早。
+
 1202、Throughout life's complications, you should maintain such a sense of elegance.   不管生活有多不容易，你都要守住自己的那一份优雅。
+
 1203、Life is like Angry birds. There are always several pigs laughing when you lose.   人生就像愤怒的小鸟，当你失败时，总有几头猪在笑！
+
 1204、A man is judged by his friends, for the wise and the foolish have never agreed.   衡量一个人是透过他的朋友，因为智者与愚者看法从未相同过。—巴尔塔沙‧葛拉西安
+
 1205、You must continue to dream the wild dream that you dreamed when you were young.   你必须不停地追逐年轻时的疯狂梦想。(Mike Tomlin)
+
 1206、The best way to achieve a goal is to devote 100% of your time and energy to it.   达到目标的最好办法就是投入自己百分百的时间和精力去完成它。《生活大爆炸》
+
 1207、People seldom do what they believe in. They do what is convenient, then repent.   人们很少做他们相信是对的事，他们做比较方便做的事，然后便会后悔。—巴布•狄伦
+
 1208、Love is blind , and lovers cannot see the pretty follies that themselves commit.   爱情是盲目的，恋人看不到自己所做的那些可爱的傻事。—威廉‧莎士比亚
+
 1209、Sometimes the hardest part isn't letting go, but rather learning to start over.   有时候，最困难的不是放手，而是学着如何开始。Nicole Sobon
+
 1210、When you wake up in the morning complete the following statement: My goal is__.   每天早上起床的时候，就想想怎么填完整下面这句话：我的目标是__。
+
 1211、Love is when you sit beside someone doing nothing yet you feel perfectly happy.   爱就是当你坐在他身边，哪怕什么都不做，也会感觉很开心。 《绯闻女孩》
+
 1212、We do not inherit the Earth from our ancestors; we borrow it from our children.   我们不是从祖辈那里继承的地球，而是向我们的子孙们借来的。
+
 1213、Earth Hour calls on people to turn off their non-essential lights for one hour.   “地球一小时”活动号召人们熄灯1小时。
+
 1214、Don't be afraid to take a big step. You can't cross a chasm in two small jumps.   不要害怕跨一大步，你不能以两小步跳越峡谷。—大卫‧劳伊德‧乔治
+
 1215、Love is blind, and lovers cannot see the pretty follies that themselves commit.   爱情是盲目的，恋人看不到自己所做的那些可爱的傻事。—威廉‧莎士比亚
+
 1216、Failure is simply the opportunity to begin again, this time more intelligently.   失败只是重新开始的机会，而这次你会更加明智。(美国汽车大王亨利·福特)
+
 1217、A bend in the road is not the end of the road. Unless you fail to make the turn.   路上的转弯处不是路的终点，除非你没有转弯。(Helen Keller)
+
 1218、Life never stops pushing forward. Stay focused and never slow down with regrets.   生活从来都不会停止向前，保持专注，别因为后悔而放慢脚步。
+
 1219、We are young. So let's set the world on fire. We can burn brighter than the sun.   我们还年轻。因此让我们一起将世界点燃。我们可以大放异彩，比骄阳还耀眼。
+
 1220、However bad life may seem, there is always something you can do, and succeed at.   无论生活怎样坑爹，总有一些事情你可以做，也可以取得成功。(《万物理论》史蒂芬·霍金)
+
 1221、Some people want it to happen, some wish it would happen, others make it happen.   有些人想成功，有些人渴望成功，有些人努力实现成功。(迈克尔·乔丹)
+
 1222、That old saying, how you always hurt the one you love. Well, it works both ways.   俗话说，人们总会伤害他所爱的人。其实人们也会爱上他所伤害的人。—影片《搏击俱乐部》
+
 1223、Sometimes, smiles are like band-aids. They cover up the pain but it still hurts.   有时，微笑就像创可贴，虽然掩盖住了伤口，但是依然感觉到痛。
+
 1224、Go confidently in the direction of your dreams. Live the life you have imagined.   自信的往你梦想的方向前进，过你所想像的生活。—亨利‧大卫‧梭罗
+
 1225、The size of a man may be measured by the size of the things that make him angry.   一个人的肚量取决于让他生气的事情的大小。(Adlai E. Stevenson)
+
 1226、With most people, unbelief in one thing is founded upon blind belief in another.   对于大多数人来说，对一件事的不相信，是源于对另一件事的盲目相信。—奥尔格‧利希滕贝格
+
 1227、When you really love someone, age, distance, height and weight are just numbers.   真心爱一个人时，年龄，距离，身高，体重都只是一堆数字。
+
 1228、Sometimes the hardest part isn't letting go, but rather, learning to start over.   有时最难的并非放下过去，而是学会重新开始。(Nicole Sobon)
+
 1229、Don't judge people by their covers. Most of their books are still being written.   不要根据封面评判一个人，他们的人生还在书写。
 1230、Only those who will risk going too far can possibly find out how far one can go.   只有那些甘愿冒险不断前行的人，才能够清楚的了解自己能走多远。(T.S.Eliot)
+
 1231、Don't worry when you are not recognized, but strive to be worthy of recognition.   不要担心你没被认出，努力成为值得赏识的人。—亚伯拉罕‧林肯
+
 1232、Life isn't fair, but no matter your circumstances, you have to give it your all.   生活是不公平的，不管你的境遇如何，你只能全力以赴。
+
 1233、A great secret of success is to go through life as a man who never gets used up.   成功的秘诀是：经历人生，就像一个永远不会疲惫的人。（史怀哲）
+
 1234、Forget all the reasons why it won't work, and believe the one reason why it will.   忘掉所有那些“不可能”的借口，去坚持那一个“可能”的理由。
+
 1235、Ninety percent of all those who fail are not actually defeated. They simply quit.   百分之九十的失败者实际上并非被击倒，他们只是放弃。—保罗‧美亚
+
 1236、Do not wait for good things to happen to you. You need to walk towards happiness.   不要等待好事降临，你要向幸福进发。
+
 1237、My mama always said, "You got to put the past behind you before you can move on. "   我妈妈总说：“你得丢开以往的事，才能不断继续前进。”—影片《阿甘正传》
+
 1238、We are toasting, my dear, to the dream job – the one that a million girls wanted.   为得到梦想的工作干杯，成千上万的女孩都梦想得到这份工作。—影片《穿普拉达的女王》
+
 1239、All the beautiful sentiments in the world weigh less than a single lovely action.   世间所有美丽的情感抵不过一次实际行动。(James Russell Lowell)
+
 1240、No matter how hard it is, just keep going because you only fail when you give up.   无论多么艰难，都要继续前进，因为只有你放弃的那一刻，你才输了。
+
 1241、Forget the risk and take the fall. If it's what you want, then it's worth it all.   忘记风险，敢于担当，如果是你想要的，值得一试！
 1242、Well, someone once told me that no matter what. . . you never leave a friend behind.   好吧，其实是有个家伙曾告诉我说，无论发生什么也不要抛弃朋友。—影片《冰河世纪3》
+
 1243、The world breaks everyone, and afterward, many are stronger at the broken places.   生活总是让我们遍体鳞伤，但到后来，那些受伤的地方会变得更坚强。(海明威)
+
 1244、The only person you should compare yourself to, is the person you were yesterday.   唯一能够和你相比较的，就是那个曾经的自己。
+
 1245、No spring nor summer beauty hath such grace, as I have seen in one autumnal face.   无论是春天的俏还是夏天的美，都没有秋天的这份优雅。（John Donne）
+
 1246、Hold fast to dream. For when dreams go. Life is a barren field. Frozen with snow.   选自兰斯顿·休斯《梦想》
+
 1247、Opportunity often comes disguised in the form of misfortune, or temporary defeat.   机会通常以不幸或一时失败的假象呈现。—拿破仑‧希尔
+
 1248、If you live each day as it was your last, someday you'll most certainly be right.   如果你把每一天都当作生命中最后一天去生活，那么有一天你会发现你是正确的。—乔布斯
+
 1249、When you play the game of thrones, you win or you die. There is no middle ground.   你玩权利的游戏，结局要么赢、要么死，没有折中的选择。
+
 1250、Setting off firecrackers is a very important activity during the Spring Festival.   放鞭炮是春节期间的重要活动。
+
 1251、Life is a journey, one that is much better traveled with a companion by our side.   人生是一场旅程，我们最好结伴同行。
+
 1252、You can't just sit there and wait for life to come to you. You have to go get it.   你不能无所事事的坐等着一切发生，你必须得自己努力争取。《吸血鬼日记》
+
 1253、You know some birds are not meant to be caged. Their feathers are just too bright.   你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉。--电影《肖申克的救赎》
+
 1254、–How to get 140 in the math test? –Just leave two multiple-choice questions blank.   –数学怎么考140分呀？–留两个选择题不做就可以了呀。
+
 1255、It is not enough to be industrious, so are the ants. What are you industrious for?   光勤劳是不够的，蚂蚁也是勤劳的。要看你为什么而勤劳。(梭罗)
+
 1256、The worst kind of pain is when you're smiling just to stop the tears from falling.   最糟糕的痛苦就是用笑来阻止掉下的泪。
+
 1257、When you feel like giving up, remember why you held on so long in the first place.   每当你想要放弃的时候，就想想是为了什么才一路坚持到现在。
+
 1258、A healthy mind in a healthy body: that's the only way to get the most out of life.   健康的身体里要有健康的心智，这是拥有最佳生活的唯一方法。
+
 1259、When life reaches out with a moment like this, it's a sin if you don't reach back.   当生活在这一瞬间开始向你垂青，你不回应便是罪过。《乌云背后的幸福线》
+
 1260、When you want to succeed as bad as you want to breathe, then you'll be successful.   当你对成功的渴望犹如呼吸般得不可或缺，你就一定会成功。
+
 1261、Everybody does stupid things, it shouldn't cost them everything they want in life.   人人都会犯傻，不该因此剥夺他们全部的生活。《豪斯医生》
+
 1262、Just living is not enough. . . one must have sunshine, freedom, and a little flower.   仅仅活着是不够的，我们还需要有阳光、自由，和一点花的芬芳。（安徒生）
+
 1263、Those who bring sunshine into the lives of others, cannot keep it from themselves.   给别人的生命带来阳光的人，自己也会享有阳光。(J.M. Barrie)
+
 1264、I'm a great believer in luck, and I find the harder I work, the more I have of it.   我很相信运气，而我发现我越努力，我的运气越好。(托马斯•杰斐逊)
+
 1265、We must face tomorrow, whatever it may hold, with determination, joy, and bravery.   无论明天怎样，我们都要带着决心、快乐和勇气去面对。
+
 1266、Knowledge has to be improved, challenged and increased constantly, or it vanishes.   我们必需时常改进、挑战、及增加我们的知识，否则它将不复存在。—彼得‧杜拉克
+
 1267、As is a tale, so is life: not how long it is, but how good it is, is what matters.   人生就像故事：不在于有多长，而在于有多精彩，这才是最重要的。(Seneca，古罗马政治家、哲学家)
+
 1268、Today I will do what others won't, so tomorrow I can accomplish what others can't.   今天我做了别人不愿做的事，明天我就能做到别人所不能做的事。(Jerry Rice)
+
 1269、You can't reach for anything new, if your hands are still full of yesterdays junk.   如果你的双手仍被昨天的垃圾占据，你就无法获得任何新鲜的东西。
+
 1270、Remember to look back upon your mistakes from time to time, but never regret them.   记得常回头看看以前犯的错误，但绝不要为它们感到后悔。
 1271、A life with love will have some thorns, but a life without love will have no roses.   有爱的人生会有荆棘，但没有爱的人生将没有玫瑰。
 1272、Accept the things you cannot change. Have the courage to change the things you can.   不能改变的事，要学会接受，而能够改变的事就要勇于行动。电影《正义联盟》
